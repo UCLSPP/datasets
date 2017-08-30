@@ -1,13 +1,25 @@
 # Datasets
 
-```{r echo=FALSE, results='asis'}
-
-files <- sort(list.files(path = "./data", pattern = "*", full.names = TRUE))
-
-for (file in files) {
-  cat(sprintf("- [%s](%s)\n", basename(file), file))
-}
-
+```{r echo=FALSE, message=FALSE}
+library(tidyverse)
 ```
+
+```{r echo=FALSE, message=FALSE, results='asis'}
+
+collections <- sort(list.files(path = "./collections", pattern = "*.csv", full.names = TRUE))
+
+for (filename in collections) {
+  cat(sprintf("### %s\n", tools::file_path_sans_ext(basename(filename))))
+  
+  collection <- read_csv(filename) %>% 
+    arrange(description)
+  
+  for (i in 1:nrow(collection)) {
+    cat(sprintf("- [%s](%s)\n", collection$description[i], collection$path[i]))
+  }
+}
+```
+
+----
 
 *Last Updated: `r format(Sys.time(), "%b %d, %Y %l:%M %p")`*
