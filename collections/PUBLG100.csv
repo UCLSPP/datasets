@@ -1,4 +1,4 @@
-path,                         description
+path,                         name
 ./data/bes.dta,               British Election Study Dataset
 ./data/caschool.dta,          California Schools Dataset
 ./data/corruption.csv,        Transparency International Corruption Perceptions Index
