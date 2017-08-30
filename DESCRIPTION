@@ -1,5 +1,5 @@
 Package: datasets
 Title: Datasets
 Version: 0.1.1
-Imports: bookdown, tidyverse
+Imports: rmarkdown
 Remotes: UCLSPP/datasets

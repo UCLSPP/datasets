@@ -8,14 +8,14 @@ set -ev
 git config --global user.email "${GIT_AUTHOR_EMAIL}"
 git config --global user.name "${GIT_AUTHOR_NAME}"
 
-git clone -b gh-pages https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git book-output
+git clone -b gh-pages https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git gh-pages
 
-cd book-output
-cp -r ../_book/* ./
+cd gh-pages
+cp -r ../_site/* ./
 
 # optional directories
 [ -d ./data ] && cp -r ../data ./
 
 git add --all *
-git commit -m"Update the book" || true
+git commit -m"Update the site" || true
 git push origin gh-pages
