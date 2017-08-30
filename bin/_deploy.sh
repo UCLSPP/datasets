@@ -15,6 +15,7 @@ cp -r ../_site/* ./
 
 # optional directories
 [ -d ./data ] && cp -r ../data ./
+[ -d ./collections ] && cp -r ../collections ./
 
 git add --all *
 git commit -m"Update the site" || true
