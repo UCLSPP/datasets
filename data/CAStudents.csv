@@ -1,0 +1,421 @@
+"county","school","read","math"
+"Alameda","Sunol Glen Unified",691.599975585938,690
+"Butte","Manzanita Elementary",660.5,661.900024414062
+"Butte","Thermalito Union Elementary",636.299987792969,650.900024414062
+"Butte","Golden Feather Union Elementary",651.900024414062,643.5
+"Butte","Palermo Union Elementary",641.799987792969,639.900024414062
+"Fresno","Burrel Union Elementary",605.700012207031,605.400024414062
+"San Joaquin","Holt Union Elementary",604.5,609
+"Kern","Vineland Elementary",605.5,612.5
+"Fresno","Orange Center Elementary",608.900024414062,616.099975585938
+"Sacramento","Del Paso Heights Elementary",611.900024414062,613.400024414062
+"Merced","Le Grand Union Elementary",612.799987792969,618.700012207031
+"Fresno","West Fresno Elementary",616.599975585938,616
+"Tulare","Allensworth Elementary",612.799987792969,619.799987792969
+"Tulare","Sunnyside Union Elementary",610,622.599975585938
+"Tulare","Woodville Elementary",611.900024414062,621
+"Tulare","Pixley Union Elementary",614.799987792969,619.900024414062
+"Kern","Lost Hills Union Elementary",611.700012207031,624.400024414062
+"Kern","Buttonwillow Union Elementary",614.900024414062,621.700012207031
+"Los Angeles","Lennox Elementary",619.099975585938,620.5
+"Kern","Lamont Elementary",621.299987792969,619.299987792969
+"Imperial","Westmorland Union Elementary",615.599975585938,625.400024414062
+"Tulare","Pleasant View Elementary",619.900024414062,622.900024414062
+"Kern","Wasco Union Elementary",622.900024414062,620.599975585938
+"Tulare","Alta Vista Elementary",620.700012207031,623.400024414062
+"Merced","Livingston Union Elementary",619.5,625.700012207031
+"Tulare","Woodlake Union Elementary",625,621.200012207031
+"Monterey","Alisal Union Elementary",620.400024414062,626
+"Kern","Arvin Union Elementary",616.5,630.400024414062
+"Tulare","Terra Bella Union Elementary",620.099975585938,627.099975585938
+"Tulare","Tipton Elementary",627.900024414062,620.400024414062
+"San Diego","San Ysidro Elementary",620.400024414062,628.700012207031
+"Monterey","Soledad Unified",623,626.900024414062
+"Los Angeles","Mountain View Elementary",620.799987792969,629.799987792969
+"Monterey","King City Union Elementary",626.099975585938,625.599975585938
+"San Bernardino","Ontario-Montclair Elementary",625.400024414062,626.799987792969
+"Los Angeles","Los Nietos Elementary",625.400024414062,628.200012207031
+"Merced","Winton Elementary",623.599975585938,630.200012207031
+"Fresno","Raisin City Elementary",628.900024414062,625.299987792969
+"San Mateo","Ravenswood City Elementary",624.400024414062,630.099975585938
+"Kern","Richland-Lerdo Union Elementary",627.5,627.099975585938
+"Ventura","Oxnard Elementary",627.799987792969,628.700012207031
+"Merced","El Nido Elementary",621.599975585938,635.200012207031
+"Kern","Fairfax Elementary",629.400024414062,627.700012207031
+"Kern","Delano Union Elementary",621.099975585938,636.200012207031
+"Riverside","Perris Elementary",626.5,631
+"Los Angeles","Valle Lindo Elementary",630.200012207031,629.400024414062
+"Santa Clara","Alum Rock Union Elementary",629.5,631.200012207031
+"Kern","Edison Elementary",631.900024414062,628.900024414062
+"Kern","Bakersfield City Elementary",631.599975585938,629.5
+"Santa Clara","Franklin-McKinley Elementary",628.5,632.599975585938
+"Los Angeles","Hawthorne Elementary",628.400024414062,633.700012207031
+"Madera","Chowchilla Elementary",635.700012207031,627.099975585938
+"Monterey","Salinas City Elementary",633,630.700012207031
+"Santa Barbara","Santa Maria-Bonita Elementary",629.599975585938,634.200012207031
+"Los Angeles","Whittier City Elementary",634.200012207031,629.700012207031
+"Los Angeles","Eastside Union Elementary",633.5,630.5
+"Los Angeles","Lawndale Elementary",631.400024414062,633
+"Sacramento","Robla Elementary",637.5,627
+"Monterey","Santa Rita Union Elementary",637.299987792969,627.599975585938
+"Ventura","Rio Elementary",633.200012207031,632.5
+"Tulare","Strathmore Union Elementary",629.200012207031,636.700012207031
+"Sacramento","North Sacramento Elementary",630.299987792969,635.799987792969
+"Orange","Anaheim Elementary",629.599975585938,636.700012207031
+"Kings","Lemoore Union Elementary",634.400024414062,632.900024414062
+"Kings","Armona Union Elementary",634.700012207031,633.099975585938
+"Kern","Beardsley Elementary",638.400024414062,629.599975585938
+"Los Angeles","South Whittier Elementary",631.900024414062,636.200012207031
+"Kings","Hanford Elementary",637.700012207031,630.5
+"San Diego","National Elementary",631.5,636.700012207031
+"Sonoma","Roseland Elementary",636.799987792969,631.5
+"Kern","Di Giorgio Elementary",631.799987792969,636.599975585938
+"Los Angeles","Keppel Union Elementary",637.700012207031,631.099975585938
+"Kings","Lakeside Union Elementary",635.5,633.599975585938
+"Merced","Merced City Elementary",633.200012207031,636.200012207031
+"Santa Barbara","Guadalupe Union Elementary",631.099975585938,638.700012207031
+"San Bernardino","Cucamonga Elementary",637.799987792969,632.099975585938
+"Contra Costa","Knightsen Elementary",636.599975585938,633.5
+"Humboldt","Rio Dell Elementary",644.299987792969,626.099975585938
+"Siskiyou","Montague Elementary",640.900024414062,630
+"Siskiyou","McCloud Union Elementary",634.599975585938,636.599975585938
+"Ventura","Santa Paula Elementary",633,638.200012207031
+"Fresno","West Park Elementary",636.700012207031,634.799987792969
+"Merced","Atwater Elementary",633.200012207031,638.700012207031
+"Merced","Weaver Union Elementary",633.900024414062,638.299987792969
+"Fresno","Pacific Union Elementary",634.700012207031,638.299987792969
+"San Bernardino","Lucerne Valley Unified",645.400024414062,627.799987792969
+"Riverside","Romoland Elementary",632.299987792969,641.099975585938
+"Los Angeles","El Monte City Elementary",632.400024414062,641.400024414062
+"Kern","Greenfield Union Elementary",636.200012207031,637.700012207031
+"Tulare","Palo Verde Union Elementary",636.099975585938,637.900024414062
+"Sacramento","Elverta Joint Elementary",638,636.200012207031
+"Lake","Lucerne Elementary",640.900024414062,633.799987792969
+"Santa Clara","Luther Burbank Elementary",644.900024414062,630.400024414062
+"Butte","Bangor Union Elementary",646.099975585938,629.799987792969
+"San Mateo","Bayshore Elementary",633.200012207031,642.700012207031
+"Tulare","Oak Valley Union Elementary",636.700012207031,639.299987792969
+"Los Angeles","Wilsona Elementary",640.400024414062,636
+"Imperial","Brawley Elementary",636.200012207031,640.400024414062
+"Imperial","Meadows Union Elementary",630.400024414062,646.200012207031
+"Los Angeles","Little Lake City Elementary",638.599975585938,638.099975585938
+"Kern","Pond Union Elementary",637.5,639.599975585938
+"Kern","Taft City Elementary",636.900024414062,640.5
+"Sutter","Brittan Elementary",640.299987792969,638.200012207031
+"Mendocino","Arena Union Elementary",642.700012207031,635.900024414062
+"San Bernardino","Adelanto Elementary",639.900024414062,638.799987792969
+"San Benito","Hollister School District",641.400024414062,637.599975585938
+"Los Angeles","Palmdale Elementary",641.700012207031,637.799987792969
+"Butte","Oroville City Elementary",641.5,638.099975585938
+"Kern","Standard Elementary",641.400024414062,638.299987792969
+"Ventura","Briggs Elementary",634.299987792969,645.5
+"Fresno","Monroe Elementary",643.5,636.700012207031
+"Los Angeles","Lancaster Elementary",640.400024414062,639.900024414062
+"Madera","Alview-Dairyland Union Elementary",637.700012207031,643.299987792969
+"Orange","Magnolia Elementary",638.5,643
+"Tulare","Liberty Elementary",644.900024414062,636.900024414062
+"Santa Clara","Mt. Pleasant Elementary",640.400024414062,641.799987792969
+"Imperial","El Centro Elementary",639.299987792969,643.599975585938
+"San Diego","South Bay Union Elementary",638.599975585938,644.299987792969
+"Shasta","Cascade Union Elementary",640.799987792969,642.299987792969
+"Tulare","Kings River Union Elementary",638.900024414062,644.700012207031
+"Tehama","Gerber Union Elementary",641.799987792969,642.599975585938
+"Tulare","Exeter Union Elementary",637,647.400024414062
+"Fresno","American Union Elementary",640.200012207031,644.599975585938
+"Monterey","San Antonio Union Elementary",652.599975585938,632.900024414062
+"Tulare","Burton Elementary",642,644.099975585938
+"Riverside","Nuview Union Elementary",642.599975585938,643.799987792969
+"Sonoma","Bellevue Union Elementary",639.400024414062,647.099975585938
+"Los Angeles","Garvey Elementary",638.900024414062,647.900024414062
+"Tehama","Corning Union Elementary",641.700012207031,645.099975585938
+"San Mateo","Jefferson Elementary",644.200012207031,642.799987792969
+"Siskiyou","Big Springs Union Elementary",652.700012207031,634.299987792969
+"Kern","General Shafter Elementary",633.599975585938,653.799987792969
+"Stanislaus","Turlock Joint Elementary",645.700012207031,641.700012207031
+"Tuolumne","Twain Harte-Long Barn Union Elementary",652.299987792969,636.099975585938
+"San Mateo","Redwood City Elementary",644.5,643.900024414062
+"El Dorado","Camino Union Elementary",652.099975585938,636.700012207031
+"Merced","Plainsburg Union Elementary",649.5,639.400024414062
+"San Joaquin","Banta Elementary",643.200012207031,645.700012207031
+"Fresno","Washington Colony Elementary",644.299987792969,644.700012207031
+"Sacramento","Rio Linda Union Elementary",646,643.099975585938
+"Stanislaus","Chatom Union Elementary",645.299987792969,644.099975585938
+"Merced","Merced River Union Elementary",649.700012207031,640.200012207031
+"Ventura","Hueneme Elementary",642.900024414062,647.299987792969
+"Humboldt","Cuddeback Union Elementary",656.799987792969,633.700012207031
+"Humboldt","Blue Lake Union Elementary",658,633.099975585938
+"San Diego","Lemon Grove Elementary",647.700012207031,643.400024414062
+"Lake","Upper Lake Union Elementary",644.799987792969,646.400024414062
+"Humboldt","Peninsula Union Elementary",644.299987792969,647.200012207031
+"Ventura","Ocean View Elementary",645.5,646
+"Tehama","Reeds Creek Elementary",652.5,639.5
+"Sacramento","Arcohe Union Elementary",650.900024414062,641.5
+"San Joaquin","New Jerusalem Elementary",643,649.700012207031
+"Siskiyou","Dunsmuir Elementary",641.599975585938,651.200012207031
+"Stanislaus","Stanislaus Union Elementary",647.799987792969,645.200012207031
+"Fresno","Kingsburg Joint Union Elementary",649.099975585938,644
+"Orange","Buena Park Elementary",644,649.400024414062
+"Orange","Westminster Elementary",645.599975585938,648.200012207031
+"Kings","Island Union Elementary",647.799987792969,646.099975585938
+"Tulare","Tulare City Elementary",642.5,651.599975585938
+"San Diego","Chula Vista Elementary",645,649.5
+"Shasta","Black Butte Union Elementary",650.799987792969,643.799987792969
+"Merced","McSwain Union Elementary",649.400024414062,645.799987792969
+"Sutter","Franklin Elementary",651.599975585938,643.599975585938
+"San Diego","Escondido Union Elementary",645,651
+"Los Angeles","East Whittier City Elementary",648,648.400024414062
+"Kern","Rio Bravo-Greeley Union Elementary",648.799987792969,647.700012207031
+"Sutter","Marcum-Illinois Union Elementary",651.599975585938,645.099975585938
+"San Diego","Vallecitos Elementary",643.400024414062,654
+"San Bernardino","Victor Elementary",645.099975585938,652.799987792969
+"Orange","Savanna Elementary",646,652.299987792969
+"Sonoma","West Side Union Elementary",655.200012207031,643.400024414062
+"Shasta","Enterprise Elementary",649.799987792969,649.200012207031
+"Tehama","Red Bluff Union Elementary",651.299987792969,648.099975585938
+"Tuolumne","Jamestown Elementary",652.599975585938,647.099975585938
+"Siskiyou","Weed Union Elementary",655.099975585938,645.799987792969
+"Humboldt","South Bay Union Elementary",654.599975585938,646.5
+"Contra Costa","Brentwood Union Elementary",655.400024414062,645.799987792969
+"Tuolumne","Summerville Elementary",653.599975585938,647.700012207031
+"Placer","Ophir Elementary",651.799987792969,650
+"Sonoma","Montgomery Elementary",656.099975585938,645.700012207031
+"Sonoma","Santa Rosa Elementary",653.299987792969,649
+"Stanislaus","Salida Union Elementary",651.700012207031,650.700012207031
+"Shasta","Shasta Union Elementary",654.400024414062,648.299987792969
+"Humboldt","Fortuna Union Elementary",662,640.799987792969
+"Tulare","Rockford  Elementary",647,655.900024414062
+"Glenn","Plaza Elementary",654.200012207031,649.400024414062
+"Sonoma","Monte Rio Union Elementary",651.900024414062,651.799987792969
+"Lassen","Janesville Union Elementary",656.299987792969,647.5
+"Imperial","Magnolia Union Elementary",648.200012207031,655.799987792969
+"Lassen","Shaffer Union Elementary",656.400024414062,647.799987792969
+"Orange","Fullerton Elementary",651.599975585938,652.599975585938
+"Sonoma","Cinnabar Elementary",655.099975585938,649.5
+"Santa Barbara","Santa Barbara Elementary",650.900024414062,653.700012207031
+"Humboldt","Rohnerville Elementary",657.200012207031,647.5
+"Sutter","Pleasant Grove Joint Union Elementary",660.299987792969,644.5
+"Shasta","Mountain Union Elementary",655.200012207031,649.599975585938
+"Kern","South Fork Union Elementary",653.099975585938,651.900024414062
+"San Diego","Jamul-Dulzura Union Elementary",656.799987792969,648.900024414062
+"Santa Cruz","Live Oak Elementary",656.099975585938,650.099975585938
+"Riverside","Menifee Union Elementary",653.700012207031,653.099975585938
+"Kern","Lakeside Union Elementary",652.400024414062,654.599975585938
+"Santa Clara","Whisman Elementary",655.599975585938,651.5
+"Imperial","McCabe Union Elementary",653.400024414062,653.700012207031
+"San Joaquin","Lammersville Elementary",654.099975585938,653.299987792969
+"Tehama","Lassen View Union Elementary",655.5,652.099975585938
+"Humboldt","Loleta Union Elementary",655.900024414062,651.799987792969
+"Shasta","Junction Elementary",656.599975585938,651.299987792969
+"Los Angeles","Rosemead Elementary",651.400024414062,656.799987792969
+"Nevada","Grass Valley Elementary",657.799987792969,650.599975585938
+"Tulare","Buena Vista Elementary",659.799987792969,648.599975585938
+"Kern","Kernville Union Elementary",655.099975585938,653.5
+"Sacramento","Galt Joint Union Elementary",652.700012207031,656.5
+"San Benito","Southside Elementary",654.200012207031,655.5
+"San Diego","Lakeside Union Elementary",653.5,656.200012207031
+"Sutter","Nuestro Elementary",662.200012207031,647.599975585938
+"Fresno","Alvina Elementary",650,660.099975585938
+"Contra Costa","Oakley Union Elementary",657.400024414062,652.700012207031
+"Siskiyou","Etna Union Elementary",660.400024414062,649.700012207031
+"San Joaquin","Jefferson Elementary",660.799987792969,649.599975585938
+"Santa Clara","Berryessa Union Elementary",655.400024414062,655.200012207031
+"Kings","Kit Carson Union Elementary",653,657.700012207031
+"Stanislaus","Sylvan Union Elementary",657.599975585938,653.099975585938
+"San Joaquin","Oak View Union Elementary",653.200012207031,657.599975585938
+"Placer","Auburn Union Elementary",662,649.099975585938
+"San Benito","North County Joint Union Elementary",651.599975585938,659.799987792969
+"El Dorado","Pioneer Union Elementary",662,649.599975585938
+"San Bernardino","Central Elementary",655.900024414062,655.799987792969
+"Shasta","Pacheco Union Elementary",654.099975585938,658.700012207031
+"Nevada","Chicago Park Elementary",657.799987792969,655.200012207031
+"San Mateo","Brisbane Elementary",658.700012207031,654.400024414062
+"Kings","Central Union Elementary",655.400024414062,657.900024414062
+"Shasta","Happy Valley Union Elementary",661.5,651.900024414062
+"Calaveras","Mark Twain Union Elementary",663.400024414062,650.200012207031
+"Marin","San Rafael City Elementary",656.700012207031,656.900024414062
+"San Diego","Cajon Valley Union Elementary",657.599975585938,656.400024414062
+"Santa Clara","Campbell Union Elementary",657.299987792969,656.700012207031
+"Sutter","Browns Elementary",661,653.299987792969
+"Nevada","Clear Creek Elementary",664.900024414062,649.900024414062
+"Humboldt","Trinidad Union Elementary",672.799987792969,642.200012207031
+"Sonoma","Guerneville Elementary",664.200012207031,650.900024414062
+"San Mateo","San Bruno Park Elementary",659.700012207031,655.599975585938
+"Tehama","Antelope Elementary",660.200012207031,655.299987792969
+"Orange","Centralia Elementary",655.099975585938,660.5
+"San Bernardino","Etiwanda Elementary",658.5,657.299987792969
+"Los Angeles","Wiseburn Elementary",657,659
+"Humboldt","Scotia Union Elementary",664,652.700012207031
+"San Bernardino","Mountain View Elementary",654.700012207031,662.5
+"San Luis Obispo","Pleasant Valley Joint Union Elementary",661.299987792969,656.299987792969
+"Santa Clara","Oak Grove Elementary",654.900024414062,663.200012207031
+"El Dorado","Pollock Pines Elementary",662.099975585938,656.200012207031
+"Los Angeles","Castaic Union Elementary",658.299987792969,660.400024414062
+"Inyo","Bishop Union Elementary",662.799987792969,656
+"Santa Barbara","Buellton Union Elementary",660,658.799987792969
+"Madera","Chawanakee Jt. Elementary",660.799987792969,658.799987792969
+"Siskiyou","Yreka Union Elementary",660.400024414062,659.400024414062
+"Sonoma","Alexander Valley Union Elementary",661.700012207031,658.400024414062
+"Nevada","Twin Ridges Elementary",673.099975585938,647.099975585938
+"Tulare","Sundale Union Elementary",659.799987792969,660.599975585938
+"Tulare","Three Rivers Union Elementary",667.799987792969,652.799987792969
+"Tuolumne","Columbia Union Elementary",666.900024414062,654.599975585938
+"Los Angeles","Westside Union Elementary",662.099975585938,659.799987792969
+"Merced","Ballico-Cressey Elementary",661.099975585938,661.599975585938
+"San Mateo","Millbrae Elementary",662,660.900024414062
+"Santa Clara","Evergreen Elementary",659.099975585938,664.099975585938
+"Sonoma","Harmony Union Elementary",672.400024414062,650.799987792969
+"Kern","Panama Buena Vista Union Elementary",660.099975585938,663.599975585938
+"San Mateo","Laguna Salada Union Elementary",665.400024414062,658.299987792969
+"Tuolumne","Sonora Elementary",662.700012207031,661
+"Placer","Roseville City Elementary",664.299987792969,659.5
+"Stanislaus","Gratton Elementary",662.5,661.299987792969
+"Lassen","Susanville Elementary",660.400024414062,663.5
+"Shasta","Bella Vista Elementary",663.099975585938,661.700012207031
+"Tulare","Columbine Elementary",651.400024414062,673.400024414062
+"Los Angeles","Hughes-Elizabeth Lakes Union Elementary",665.400024414062,659.5
+"Santa Clara","Mountain View Elementary",663.5,661.5
+"Los Angeles","Sulphur Springs Union Elementary",661.700012207031,663.400024414062
+"Sonoma","Forestville Union Elementary",669.400024414062,655.700012207031
+"Kern","Rosedale Union Elementary",658.299987792969,667
+"Shasta","Columbia Elementary",662.400024414062,663
+"Placer","Colfax Elementary",667.099975585938,658.400024414062
+"Siskiyou","Mt. Shasta Union Elementary",668.299987792969,657.5
+"Sonoma","Piner-Olivet Union Elementary",667.400024414062,659.299987792969
+"Madera","Bass Lake Joint Elementary",664.299987792969,662.599975585938
+"Humboldt","Cutten Elementary",660.200012207031,666.799987792969
+"El Dorado","Placerville Union Elementary",666.400024414062,661.299987792969
+"Sonoma","Wright Elementary",659.400024414062,668.299987792969
+"Tehama","Evergreen Union Elementary",657.700012207031,670.099975585938
+"Sonoma","Old Adobe Union Elementary",666.200012207031,661.799987792969
+"Sonoma","Wilmar Union Elementary",668.700012207031,659.299987792969
+"Placer","Ackerman Elementary",671.299987792969,657
+"Santa Cruz","Santa Cruz City Elementary",666.700012207031,661.599975585938
+"Humboldt","Arcata Elementary",674,654.599975585938
+"San Bernardino","Alta Loma Elementary",663.400024414062,665.400024414062
+"Placer","Foresthill Union Elementary",663.099975585938,665.799987792969
+"El Dorado","Mother Lode Union Elementary",665.5,663.900024414062
+"Orange","Ocean View Elementary",663.700012207031,665.799987792969
+"Glenn","Lake Elementary",667.599975585938,662.299987792969
+"San Mateo","San Mateo-Foster City Elementary",665.900024414062,664
+"Santa Barbara","Goleta Union Elementary",666.799987792969,663.400024414062
+"San Bernardino","Helendale Elementary",656.200012207031,674.200012207031
+"Sonoma","Petaluma City Elementary",669.799987792969,660.900024414062
+"Santa Clara","Sunnyvale Elementary",663.900024414062,667.400024414062
+"Santa Barbara","College Elementary",670.299987792969,661.5
+"San Diego","La Mesa-Spring Valley",664.5,667.400024414062
+"Orange","Huntington Beach City Elementary",668,664
+"Santa Barbara","Solvang Elementary",668.700012207031,663.400024414062
+"Santa Cruz","Soquel Elementary",666.900024414062,665.299987792969
+"Glenn","Capay Joint Union Elementary",671.900024414062,660.400024414062
+"Sonoma","Gravenstein Union Elementary",671,661.299987792969
+"Nevada","Pleasant Valley Elementary",668.799987792969,664.099975585938
+"Kings","Pioneer Union Elementary",671.200012207031,661.900024414062
+"San Diego","Santee Elementary",663.700012207031,669.5
+"Lassen","Johnstonville Elementary",672.099975585938,661.200012207031
+"Ventura","Pleasant Valley Elementary",667.5,665.799987792969
+"Tuolumne","Curtis Creek Elementary",662.099975585938,671.299987792969
+"Siskiyou","Fort Jones Union Elementary",666.900024414062,666.799987792969
+"Sonoma","Mark West Union Elementary",671.299987792969,662.400024414062
+"San Diego","Alpine Union Elementary",667.700012207031,666.599975585938
+"Sonoma","Sebastopol Union Elementary",669.799987792969,664.599975585938
+"Humboldt","Freshwater Elementary",672.200012207031,662.700012207031
+"Kern","Norris Elementary",667,667.900024414062
+"Tulare","Springville Union Elementary",669.200012207031,666
+"Santa Clara","Moreland Elementary",669.400024414062,666.599975585938
+"Kern","Maple Elementary",660.5,675.700012207031
+"Kings","Kings River-Hardwick Union Elementary",665.799987792969,671
+"San Diego","Julian Union Elementary",672.700012207031,664.5
+"San Diego","Cardiff Elementary",668.799987792969,668.5
+"Tulare","Saucelito Elementary",668.5,669.099975585938
+"San Diego","Bonsall Union Elementary",666.200012207031,671.599975585938
+"Orange","Cypress Elementary",665.5,672.400024414062
+"Los Angeles","Lowell Joint Elementary",666.099975585938,672.099975585938
+"Los Angeles","Newhall Elementary",668.900024414062,669.700012207031
+"Marin","Lagunitas Elementary",680.900024414062,657.700012207031
+"Santa Clara","Cambrian Elementary",673.299987792969,665.400024414062
+"Tehama","Richfield Elementary",664.599975585938,674.099975585938
+"Humboldt","Fieldbrook Elementary",670.099975585938,669.5
+"San Diego","Dehesa Elementary",673.200012207031,666.5
+"Shasta","Cottonwood Union Elementary",669.200012207031,670.700012207031
+"Kern","Fruitvale Elementary",669.200012207031,670.799987792969
+"Santa Clara","Union Elementary",672.799987792969,668.599975585938
+"Orange","Fountain Valley Elementary",671.200012207031,671.299987792969
+"El Dorado","Gold Oak Union Elementary",674.599975585938,668
+"El Dorado","Buckeye Union Elementary",674.900024414062,668.299987792969
+"Placer","Rocklin Unified",671.400024414062,671.799987792969
+"El Dorado","Gold Trail Union Elementary",677.599975585938,665.700012207031
+"Humboldt","Hydesville Elementary",679.799987792969,663.599975585938
+"Los Angeles","Saugus Union Elementary",668.900024414062,674.599975585938
+"Placer","Loomis Union Elementary",673.099975585938,670.700012207031
+"Placer","Placer Hills Union Elementary",679.599975585938,664.200012207031
+"Sonoma","Dunham Elementary",672.299987792969,671.599975585938
+"San Mateo","San Carlos Elementary",676.099975585938,668
+"Nevada","Ready Springs Union Elementary",673.900024414062,670.200012207031
+"Madera","Coarsegold Union Elementary",668.099975585938,676.5
+"San Luis Obispo","Cayucos Elementary",674.599975585938,670.099975585938
+"Lassen","Richmond Elementary",672.700012207031,672.200012207031
+"Fresno","Clay Joint Elementary",669.400024414062,675.700012207031
+"Sonoma","Waugh Elementary",676.099975585938,669.299987792969
+"Sonoma","Two Rock Union Elementary",679.099975585938,667
+"San Mateo","Belmont-Redwood Shores Elementary",675,671.5
+"El Dorado","Rescue Union Elementary",676.099975585938,670.5
+"Placer","Alta-Dutch Flat Union Elementary",680.5,666.599975585938
+"San Diego","San Pasqual Union Elementary",670.5,676.599975585938
+"El Dorado","Latrobe Elementary",670.5,677.299987792969
+"Nevada","Union Hill Elementary",676,672.5
+"Sonoma","Twin Hills Union Elementary",681,669.799987792969
+"Humboldt","Pacific Union Elementary",683,668.400024414062
+"Trinity","Douglas City Elementary",680.099975585938,672.200012207031
+"Nevada","Pleasant Ridge Union Elementary",673.799987792969,679.299987792969
+"Placer","Newcastle Elementary",673.299987792969,679.900024414062
+"Ventura","Mesa Union Elementary",680.5,673.200012207031
+"Trinity","Weaverville Elementary",672.799987792969,681.099975585938
+"Shasta","North Cow Creek Elementary",679,675.5
+"Nevada","Nevada City Elementary",678.5,677.400024414062
+"Humboldt","Jacoby Creek Elementary",682.900024414062,673.200012207031
+"Sonoma","Fort Ross Elementary",685.299987792969,671.5
+"San Diego","Encinitas Union Elementary",679,678.599975585938
+"Marin","Dixie Elementary",684.099975585938,674.700012207031
+"Santa Clara","Lakeside Joint Elementary",676.799987792969,682.200012207031
+"Los Angeles","Hermosa Beach City Elementary",683.099975585938,676.200012207031
+"Sonoma","Rincon Valley Union Elementary",678.700012207031,680.799987792969
+"Monterey","Washington Union Elementary",680.200012207031,679.400024414062
+"Sonoma","Bennett Valley Union Elementary",685.700012207031,674.400024414062
+"Santa Clara","Loma Prieta Joint Union Elemen",684.200012207031,676.700012207031
+"Sonoma","Kenwood Elementary",682.799987792969,679.799987792969
+"Sonoma","Liberty Elementary",680.799987792969,681.799987792969
+"Stanislaus","Knights Ferry Elementary",688.5,674.700012207031
+"Marin","Kentfield Elementary",689.799987792969,674
+"Santa Barbara","Ballard Elementary",681.799987792969,682.5
+"Sonoma","Oak Grove Union Elementary",680,684.900024414062
+"Marin","Ross Valley Elementary",685.599975585938,679.5
+"Santa Cruz","Mountain Elementary",687.299987792969,678
+"San Mateo","Burlingame Elementary",682.400024414062,684.299987792969
+"Shasta","Grant Elementary",684.5,682.299987792969
+"Santa Cruz","Happy Valley Elementary",680.400024414062,688.200012207031
+"Santa Cruz","Bonny Doon Union Elementary",688.5,680.200012207031
+"Contra Costa","Walnut Creek Elementary",682.200012207031,687.400024414062
+"Santa Barbara","Hope Elementary",686.200012207031,683.700012207031
+"Marin","Larkspur Elementary",692.200012207031,679.900024414062
+"Santa Clara","Cupertino Union Elementary",683.099975585938,690.299987792969
+"Santa Cruz","Pacific Elementary",693.799987792969,681.299987792969
+"Santa Clara","Los Gatos Union Elementary",691.599975585938,686.599975585938
+"Santa Barbara","Montecito Union Elementary",693.5,688.599975585938
+"San Diego","Solana Beach Elementary",687.700012207031,695
+"San Mateo","Menlo Park City Elementary",693.700012207031,690.099975585938
+"Marin","Reed Union Elementary",695.900024414062,692
+"Marin","Mill Valley Elementary",693.599975585938,694.900024414062
+"Contra Costa","Lafayette Elementary",697.900024414062,691.700012207031
+"San Diego","Del Mar Union Elementary",695.099975585938,695.299987792969
+"San Mateo","Woodside Elementary",701.299987792969,689.299987792969
+"Contra Costa","Moraga Elementary",697.400024414062,695.700012207031
+"Contra Costa","Orinda Union Elementary",699.099975585938,697.299987792969
+"San Mateo","Hillsborough City Elementary",695.400024414062,701.099975585938
+"Santa Barbara","Cold Spring Elementary",693.299987792969,703.599975585938
+"San Mateo","Portola Valley Elementary",698.299987792969,699.900024414062
+"Santa Clara","Saratoga Union Elementary",698.900024414062,701.700012207031
+"San Mateo","Las Lomitas Elementary",700.900024414062,707.700012207031
+"Santa Clara","Los Altos Elementary",704,709.5
+"Ventura","Somis Union Elementary",648.299987792969,641.700012207031
+"Yuba","Plumas Elementary",667.900024414062,676.5
+"Yuba","Wheatland Elementary",660.5,651

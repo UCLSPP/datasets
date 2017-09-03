@@ -1,6 +1,8 @@
 path,                       name
 data/bes.dta,               British Election Study Dataset
 data/caschool.dta,          California Schools Dataset
+data/CASchoolAdmin.csv,     California Schools Admin Dataset
+data/CAStudents.csv,        California Schools Student Dataset
 data/corruption.csv,        Transparency International Corruption Perceptions Index
 data/cps2013.csv,           U.S. Current Population Survey (CPS) from 2013
 data/guns.csv,              Guns Data
