@@ -14,7 +14,6 @@ cd gh-pages
 cp -rv ../_site/* ./
 
 # optional directories
-echo "DEBUG-XYZ"
 [ -d ./R ] && cp -r ../R ./
 [ -d ./data ] && cp -r ../data ./
 [ -d ./collections ] && cp -r ../collections ./
