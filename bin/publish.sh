@@ -11,9 +11,10 @@ git config --global user.name "${GIT_AUTHOR_NAME}"
 git clone -b gh-pages https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git gh-pages
 
 cd gh-pages
-cp -r ../_site/* ./
+cp -rv ../_site/* ./
 
 # optional directories
+[ -d ./R ] && cp -r ../R ./
 [ -d ./data ] && cp -r ../data ./
 [ -d ./collections ] && cp -r ../collections ./
 
