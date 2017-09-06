@@ -4,7 +4,7 @@ data/caschool.dta,              California Schools Dataset
 data/CASchoolAdmin.csv,         California Schools Admin Dataset
 data/CABenefits.csv,            California Schools Benefits Dataset
 data/CAStudents.csv,            California Schools Student Dataset
-data/corruption.csv,            Transparency International Corruption Perceptions Index,
+data/corruption.csv,            Transparency International Corruption Perceptions Index
 data/CPDS_1960-2013_stata.dta,  Comparative Political Dataset
 data/cps2013.csv,               U.S. Current Population Survey (CPS) from 2013
 data/guns.csv,                  Guns Data
