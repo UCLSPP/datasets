@@ -12,6 +12,7 @@ for (filename in collections) {
   cat(sprintf("### %s\n", tools::file_path_sans_ext(basename(filename))))
   
   collection <- read_csv(filename) %>% 
+    mutate(name = trimws(name), path = trimws(path)) %>% 
     arrange(name)
   
   for (i in 1:nrow(collection)) {
