@@ -1,5 +1,6 @@
 path,                           name
 data/bes.dta,                   British Election Study Dataset
+data/BSAS_manip.RData,			Non Western Foreigners Dataset
 data/caschool.dta,              California Schools Dataset
 data/CASchoolAdmin.csv,         California Schools Admin Dataset
 data/CABenefits.csv,            California Schools Benefits Dataset
