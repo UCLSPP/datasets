@@ -12,6 +12,6 @@ data/guns.csv,                  Guns Data
 data/hsb2.xlsx,                 High School and Beyond survey
 data/MA_Schools.csv,            Massachusetts Schools Dataset
 data/polity.csv,                Polity IV Dataset
-data/QoG2012.dta,               Institute for Quality of Governance
+data/QoG2012.csv,               Institute for Quality of Governance
 data/qog_std_cs_jan15.dta,      Institute for Quality of Governance - Full Dataset
 data/shark_attacks.csv,         Shark Attacks Data
