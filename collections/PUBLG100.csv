@@ -1,18 +1,20 @@
-path,                               name
-data/bes.dta,                       British Election Study Dataset
-data/non_western_foreingners.RData, Non Western Foreigners Dataset
-data/diabetic_data.csv,             Patient Data from 130 U.S. hospitals
-data/caschool.dta,                  California Schools Dataset
-data/CASchoolAdmin.csv,             California Schools Admin Dataset
-data/CABenefits.csv,                California Schools Benefits Dataset
-data/CAStudents.csv,                California Schools Student Dataset
-data/corruption.csv,                Transparency International Corruption Perceptions Index
-data/CPDS_1960-2013_stata.dta,      Comparative Political Dataset
-data/cps2013.csv,                   U.S. Current Population Survey (CPS) from 2013
-data/guns.csv,                      Guns Data
-data/hsb2.xlsx,                     High School and Beyond survey
-data/MA_Schools.csv,                Massachusetts Schools Dataset
-data/polity.csv,                    Polity IV Dataset
-data/QoG2012.dta,                   Institute for Quality of Governance
-data/qog_std_cs_jan15.dta,          Institute for Quality of Governance - Full Dataset
-data/shark_attacks.csv,             Shark Attacks Data
+path,                                   name
+data/bes.dta,                           British Election Study Dataset
+data/non_western_foreingners.RData,     Non Western Foreigners Dataset
+data/caschool.dta,                      California Schools Dataset
+data/CASchoolAdmin.csv,                 California Schools Admin Dataset
+data/CABenefits.csv,                    California Schools Benefits Dataset
+data/CAStudents.csv,                    California Schools Student Dataset
+data/corruption.csv,                    Transparency International Corruption Perceptions Index
+data/CPDS_1960-2013_stata.dta,          Comparative Political Dataset
+data/cps2013.csv,                       U.S. Current Population Survey (CPS) from 2013
+data/diabetic_data.csv,                 Patient Data from 130 U.S. hospitals
+data/guns.csv,                          Guns Data
+data/hsb2.xlsx,                         High School and Beyond survey
+data/MA_Schools.csv,                    Massachusetts Schools Dataset
+data/polity.csv,                        Polity IV Dataset
+data/QoG2012.csv,                       Institute for Quality of Governance
+data/qog_std_cs_jan15.dta,              Institute for Quality of Governance - Full Dataset
+data/shark_attacks.csv,                 Shark Attacks Data
+data/communities.csv,			              1990  US Census data
+
