@@ -1,25 +1,29 @@
 language: r
-
 sudo: false
 dist: trusty
 
 addons:
   apt:
     sources:
-    - sourceline: 'deb http://neurodeb.pirsquared.org trusty main'
+      - sourceline: deb http://neurodeb.pirsquared.org trusty main
     packages:
-    - libnlopt-dev
+      - libnlopt-dev
 
 cache:
-  packages: yes
+  packages: true
   directories:
     - $TRAVIS_BUILD_DIR/_site
 
 env:
   global:
-    - GIT_AUTHOR_NAME: "Altaf Ali"
-    - GIT_AUTHOR_EMAIL: "altaf@fastmail.com"
-    - secure: "qYEogHsKvwmOKKY6mL74L4bUq5eXxp0m12NEgPa7V3FJ3CgwCv4G59mD8Uxqu1feassVvmBxLdmwnJhKmaDiq4VPkvEyBjOYHiin4VjaLxOhPgTxnqKq2MktEZ4aqIjZ5M93iHrq7C8blspDcaVGVmSEFuAGFt9El4TuP1OgxS42N1Hv8TvtAaaV9EAzrX+rz47HunuWhsvglLwusGBy/Ruuv/NevW57yjoo2wQQ4Pm+aVINxO+hGj8FH0wFYc84oXN8Ee1WbzISeCISMj5uY++w1xxsU5+/t8rMUaULWxqr2Wqegwm6rn7PgQLy12sKLwav4mqSRTaxW+F2wETx1v6mClcGVdklDtj0h0YNSWSTZAsYc5n1DRG8W/efnR0A2q17Ze7RZmWSmVisdlpJCZGZXznD0k1sjktp8RgcWqEAxANZLue+HFeqsEjnNvb/yTqE6cRlYUE80+J50cyQ/B9tBazv1zaxWuyxWgx+LOnpHGWOC+t2NQX3LLaLpL6PGTgWJ9LpLGVDyEn1f1kfW0P3HlyEI3ITS7YWWcKppWWHj/OlYRzvS5PAqg0ey9iAsq81YK+VOdMPdCePjg0lzYE1duxq6VHxwbMsqOKY5Fhpw11XtJeDhb/acuUV+1KJIOK4lmwqgShI77XAH83f+/e/nFU7OOr4gwz/cQ/Vao4="
+    - GIT_AUTHOR_NAME: Altaf Ali
+    - GIT_AUTHOR_EMAIL: altaf@fastmail.com
+    - secure: qYEogHsKvwmOKKY6mL74L4bUq5eXxp0m12NEgPa7V3FJ3CgwCv4G59mD8Uxqu1feassVvmBxLdmwnJhKmaDiq4VPkvEyBjOYHiin4VjaLxOhPgTxnqKq2MktEZ4aqIjZ5M93iHrq7C8blspDcaVGVmSEFuAGFt9El4TuP1OgxS42N1Hv8TvtAaaV9EAzrX+rz47HunuWhsvglLwusGBy/Ruuv/NevW57yjoo2wQQ4Pm+aVINxO+hGj8FH0wFYc84oXN8Ee1WbzISeCISMj5uY++w1xxsU5+/t8rMUaULWxqr2Wqegwm6rn7PgQLy12sKLwav4mqSRTaxW+F2wETx1v6mClcGVdklDtj0h0YNSWSTZAsYc5n1DRG8W/efnR0A2q17Ze7RZmWSmVisdlpJCZGZXznD0k1sjktp8RgcWqEAxANZLue+HFeqsEjnNvb/yTqE6cRlYUE80+J50cyQ/B9tBazv1zaxWuyxWgx+LOnpHGWOC+t2NQX3LLaLpL6PGTgWJ9LpLGVDyEn1f1kfW0P3HlyEI3ITS7YWWcKppWWHj/OlYRzvS5PAqg0ey9iAsq81YK+VOdMPdCePjg0lzYE1duxq6VHxwbMsqOKY5Fhpw11XtJeDhb/acuUV+1KJIOK4lmwqgShI77XAH83f+/e/nFU7OOr4gwz/cQ/Vao4=
 
 script:
   - make -f build.mk publish
+
+notifications:
+  email: false
+  slack:
+    secure: DSWbaupEfku/IbTIICJwcfkAkhUpdkTn+4QDcz7LZTOykd9McphAw5ezikIRmtnFdAafLxb0LvnjQ0VwumfU58S2Tbd9GTBT504RGVDqRGdfCDrVt4Q833JsZ+X7ZaPIS0AfBqGsLltpTzijQ6pjC6eku1w5kqAURQOrWCzujZ/qvmVH/Y1HUE364caNE3qHeDd05VIbmsgMrKwYHkUBxmfhLrCVe4/Zuo7BuzaTd6ELeCDTaBrlO7ibeDm/PtLmUaViUYf3g2tHPJKZ4gwG46ZEOTjI+k6FTCzR7UGF4qpkZtBK02AJgF7I5aenYqcL0uib51zyLI9LSJWS2UUKvH8yFEgr+/OVd8a8Fxf+nnG17uUBDZixlSKXq1nXE5FswkDFYwYT3A7dVkFtJQXBQ0dX9a46L2+vyl8IkudR2YAIV5Pabb+/8gvEWG4cw+HHEfK6m/PijGufsnRZ7eJnHSDLl/UIxHHEqtUjeTT44WXVMad5C4sIpeK/JqdOk+Jn/q+6OYhZnamGHE2QxLl2QwEAP9OBuJuYK4lLBBNSbg1TgJU75i5UF9p9oMmW3ZT1Qj+KFyrqufnXC9GYtZ8FsT33HM6lWaS9L4U0MvvNSvEEjLM3hjlrP+nea+2Kyu7FX+LZPfRAFi6ekStKtNJZqM6b0IF4y4tOhJoaxhJkVDA=
