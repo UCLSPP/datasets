@@ -15,3 +15,5 @@ data/polity.csv,                Polity IV Dataset
 data/QoG2012.csv,               Institute for Quality of Governance
 data/qog_std_cs_jan15.dta,      Institute for Quality of Governance - Full Dataset
 data/shark_attacks.csv,         Shark Attacks Data
+data/communities.csv,			1990  US Census data
+
