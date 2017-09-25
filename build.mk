@@ -4,22 +4,22 @@
 RSCRIPT = Rscript
 RSCRIPT_BUILD = ./R/build.R
 
-TARGET = site
+TARGETS = site archives
 
 #---------------------------------------------------------------
-all: $(TARGET)
+all: $(TARGETS)
 
 #---------------------------------------------------------------
-.PHONY: $(TARGET) all publish
+.PHONY: $(TARGETS) all publish
 
 #---------------------------------------------------------------
-$(TARGET):
+$(TARGETS):
 	$(RSCRIPT) $(RSCRIPT_BUILD) $@
 
 #---------------------------------------------------------------
 PUBLISH_SH = ./bin/publish.sh
 
-publish: $(TARGET)
+publish: $(TARGETS)
 	chmod +x $(PUBLISH_SH)
 	$(PUBLISH_SH)
 

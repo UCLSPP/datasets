@@ -9,7 +9,9 @@ library(tidyverse)
 collections <- sort(list.files(path = "./collections", pattern = "*.csv", full.names = TRUE))
 
 for (filename in collections) {
-  cat(sprintf("### %s\n", tools::file_path_sans_ext(basename(filename))))
+  
+  collection_name <- tools::file_path_sans_ext(basename(filename))
+  cat(sprintf("### %s\n", collection_name))
   
   collection <- read_csv(filename) %>% 
     mutate(name = trimws(name), path = trimws(path)) %>% 
@@ -18,6 +20,9 @@ for (filename in collections) {
   for (i in 1:nrow(collection)) {
     cat(sprintf("- [%s](%s)\n", collection$name[i], collection$path[i]))
   }
+  
+  zip_archive <- paste(collection_name, "zip", sep = ".")
+  cat(sprintf("\n\n##### Download: [%s](%s)\n", zip_archive, zip_archive))
 }
 ```
 
