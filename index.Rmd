@@ -13,6 +13,9 @@ for (filename in collections) {
   collection_name <- tools::file_path_sans_ext(basename(filename))
   cat(sprintf("### %s\n", collection_name))
   
+  zip_archive <- paste(collection_name, "zip", sep = ".")
+  cat(sprintf("\n[%s](%s)\n\n", zip_archive, zip_archive))
+  
   collection <- read_csv(filename) %>% 
     mutate(name = trimws(name), path = trimws(path)) %>% 
     arrange(name)
@@ -21,11 +24,8 @@ for (filename in collections) {
     cat(sprintf("- [%s](%s)\n", collection$name[i], collection$path[i]))
   }
   
-  zip_archive <- paste(collection_name, "zip", sep = ".")
-  cat(sprintf("\n\n##### Download: [%s](%s)\n", zip_archive, zip_archive))
+  cat("\n----\n\n")
 }
 ```
-
-----
 
 *Last Updated: `r format(Sys.time(), "%b %d, %Y %l:%M %p")`*
