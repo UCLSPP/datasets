@@ -1,2 +1,4 @@
-path,                                   name
-data/fatality.dta,                      Traffic Fatality Dataset
+path,                     name
+data/fatality.dta,        Traffic Fatality Dataset
+data/Advertising.csv,     ISLR Advertising Data
+data/Credit.csv,          ISLR Credit Data
