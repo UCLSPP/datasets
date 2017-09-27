@@ -1,5 +1,6 @@
 path,                     name
 data/fatality.dta,        Traffic Fatality Dataset
-data/Advertising.csv,     ISLR Advertising Data
-data/College.csv,         ISLR College Data
-data/Credit.csv,          ISLR Credit Data
+data/Advertising.csv,     ISLR Advertising Dataset
+data/Auto.csv,            ISLR Auto Dataset
+data/College.csv,         ISLR College Dataset
+data/Credit.csv,          ISLR Credit Dataset
