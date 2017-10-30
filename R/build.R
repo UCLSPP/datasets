@@ -5,6 +5,8 @@ library(tidyverse)
 args <- commandArgs(TRUE)
 stopifnot(length(args) >= 1)
 
+options(warn=2)
+
 # ---------------------------------------------------------------------
 site <- function() {
   rmarkdown::render_site(encoding = 'UTF-8')
@@ -18,7 +20,7 @@ archives <- function() {
 
     collection_name <- tools::file_path_sans_ext(basename(filename))
 
-    collection <- read_csv(filename) %>%
+    collection <- read.csv(filename) %>%
       mutate(name = trimws(name), path = trimws(path)) %>%
       arrange(name)
 
