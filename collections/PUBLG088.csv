@@ -5,3 +5,4 @@ data/Auto.csv,            ISLR Auto Dataset
 data/College.csv,         ISLR College Dataset
 data/Credit.csv,          ISLR Credit Dataset
 data/WDI.zip,             World Development Indicators
+data/datathon.Rpres,      Datathon Presentation Template
