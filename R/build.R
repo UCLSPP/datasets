@@ -36,6 +36,15 @@ archives <- function() {
   }
 }
 
+print("---- START DEBUG ----")
+cat("Number of args: ", length(args), "\n")
+print(args)
+for (i in 1:seq_along(args)) {
+  cat("arg", i, ": ", args[i], "\n")
+}
+print(as.list(tail(args, -1)))
+print("---- END DEBUG ----")
+
 do.call(args[1], args = as.list(tail(args, -1)))
 
 
