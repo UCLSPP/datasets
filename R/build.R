@@ -1,7 +1,5 @@
 # script called by Makefile for building with rmarkdown
 
-library(tidyverse)
-
 args <- commandArgs(TRUE)
 stopifnot(length(args) >= 1)
 
@@ -20,9 +18,14 @@ archives <- function() {
 
     collection_name <- tools::file_path_sans_ext(basename(filename))
 
-    collection <- read.csv(filename) %>%
-      mutate(name = trimws(name), path = trimws(path)) %>%
-      arrange(name)
+    collection <- read.csv(filename)
+
+    # cleanup
+    collection$name <- trimws(collection$name)
+    collection$path <- trimws(collection$path)
+
+    # sort by name
+    collection <- collection[order(collection$name), ]
 
     file_status <- file.exists(collection$path)
 
