@@ -3,5 +3,5 @@ Title: Datasets
 Version: 0.1.2
 Imports: 
   tidyverse,
-  rmarkdown
+  rmarkdown (== 1.6)
 Remotes: UCLSPP/datasets
