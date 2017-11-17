@@ -2,5 +2,5 @@ Package: datasets
 Title: Datasets
 Version: 0.1.2
 Imports: 
-  rmarkdown (<= 1.6)
+  rmarkdown
 Remotes: UCLSPP/datasets

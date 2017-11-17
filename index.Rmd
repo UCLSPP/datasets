@@ -1,9 +1,5 @@
 # UCLSPP Datasets
 
-```{r echo=FALSE, message=FALSE}
-library(tidyverse)
-```
-
 ```{r echo=FALSE, message=FALSE, results='asis'}
 
 collections <- sort(list.files(path = "./collections", pattern = "*.csv", full.names = TRUE))
@@ -16,10 +12,15 @@ for (filename in collections) {
   zip_archive <- paste(collection_name, "zip", sep = ".")
   cat(sprintf("\n[%s](%s)\n\n", zip_archive, zip_archive))
   
-  collection <- read_csv(filename) %>% 
-    mutate(name = trimws(name), path = trimws(path)) %>% 
-    arrange(name)
+  collection <- read.csv(filename)
   
+  # cleanup
+  collection$name <- trimws(collection$name)
+  collection$path <- trimws(collection$path)
+
+  # sort by name
+  collection <- collection[order(collection$name), ]
+
   for (i in 1:nrow(collection)) {
     cat(sprintf("- [%s](%s)\n", collection$name[i], collection$path[i]))
   }
