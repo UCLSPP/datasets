@@ -25,3 +25,5 @@ data/german_election_results.csv,       German Bundestag elections in 2017
 data/chechen.csv                        Chechen Dataset
 data/who_voted_nazi_in_1932.csv         Election of Adolf Hitler 1932
 data/afb_class.csv,                     Afrobarometer
+data/SwissData2011.dta,                 Swiss Data 2011
+data/benin.csv,                         Benin Survey Data
