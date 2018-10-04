@@ -7,3 +7,5 @@ data/Credit.csv,                  ISLR Credit Dataset
 data/WDI.zip,                     World Development Indicators
 data/datathon.Rpres,              Datathon Presentation Template
 data/UNGDC 1970-2016.zip,         UNGD Corpus 1970-2016
+data/gerber_green.Rdata,gerber green 2008
+data/women.csv,dulfo 2004
