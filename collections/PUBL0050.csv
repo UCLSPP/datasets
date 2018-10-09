@@ -2,5 +2,5 @@ path,                             name
 data/gerber_green_larimer.Rdata,gerber green larimer 2008
 data/women.csv,dulfo 2004
 data/star_sw.dta,star experiment
-data/kalla_broockman.Rdata,kalla brookman
+data/kalla_broockman.RData,kalla brookman
 data/gerber_green.Rdata,gerber green 2008 raw
