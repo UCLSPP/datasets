@@ -14,11 +14,13 @@ data/hsb2.xlsx,                         High School and Beyond survey
 data/MA_Schools.csv,                    Massachusetts Schools Dataset
 data/polity.csv,                        Polity IV Dataset
 data/QoG2012.csv,                       Institute for Quality of Governance
-data/qog_std_cs_jan15.csv,              Institute for Quality of Governance - Full Dataset (.csv format)
-data/qog_std_cs_jan15.dta,              Institute for Quality of Governance - Full Dataset (.dta format)
+data/qog_std_cs_jan15.csv,              Institute for Quality of Governance - Full Dataset, 2015 (.csv format)
+data/qog_std_cs_jan15.dta,              Institute for Quality of Governance - Full Dataset, 2015 (.dta format)
+data/qog_std_cs_jan18.csv,              Institute for Quality of Governance - Full Dataset, 2018 (.csv format)
+data/qog_std_cs_jan18.dta,              Institute for Quality of Governance - Full Dataset, 2018 (.dta format)
 data/shark_attacks.csv,                 Shark Attacks Data
 data/communities.csv,                   1990 US Census data
-data/econ_data.csv,                   Midterm sample data
+data/econ_data.csv,                     Midterm sample data
 data/non_western_immigrants.csv,        Perception of immigrants from non-western countries
 data/resourcecurse.csv,                 Resource Curse Dataset
 data/german_election_results.csv,       German Bundestag elections in 2017
