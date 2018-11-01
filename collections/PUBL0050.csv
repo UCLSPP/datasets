@@ -7,3 +7,5 @@ data/gerber_green.Rdata,gerber green 2008 raw
 data/eggers_mps.Rdata,mps for sale
 data/nsw_exper.dta,Dehejia and Wahba  experimental
 data/NSW.dw.obs.dta,Dehejia and Wahba observational
+data/dinas_golden_dawn.Rdata,Golden Dawn
+data/m_wage.dta,Card and Krueger
