@@ -9,3 +9,5 @@ data/nsw_exper.dta,Dehejia and Wahba  experimental
 data/NSW.dw.obs.dta,Dehejia and Wahba observational
 data/dinas_golden_dawn.Rdata,Golden Dawn
 data/m_wage.dta,Card and Krueger
+data/hope_emu.csv,Hope EMU
+data/hope_emu_austria.csv,Hope EMU Austria
