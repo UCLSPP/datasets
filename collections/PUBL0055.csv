@@ -29,3 +29,5 @@ data/who_voted_nazi_in_1932.csv,        Election of Adolf Hitler 1932
 data/afb_class.csv,                     Afrobarometer
 data/SwissData2011.dta,                 Swiss Data 2011
 data/benin.csv,                         Benin Survey Data
+data/ess.csv,European Social Survey
+data/vdem.csv,Varieties of Democracy
