@@ -2,7 +2,6 @@
 title: "UCLSPP Datasets"
 ---
 
-# UCLSPP Datasets
 
 ```{r echo=FALSE, message=FALSE, results='asis'}
 
