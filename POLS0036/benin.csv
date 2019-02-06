@@ -1,0 +1,17 @@
+block,reg.voters,vote.pop,treat
+1,1133,0.81,client
+1,1109,0.6,pub.pol
+2,462,0.9,client
+2,1090,0.85,pub.pol
+3,999,0.94,client
+3,931,0.93,pub.pol
+4,657,0.81,client
+4,442,0.25,pub.pol
+5,1172,0.91,client
+5,1199,0.9,pub.pol
+6,321,0.86,client
+6,701,0.72,pub.pol
+7,492,0.87,client
+7,511,0.77,pub.pol
+8,1397,0.65,client
+8,736,0.47,pub.pol
