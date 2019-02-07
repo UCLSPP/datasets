@@ -1,2 +1,4 @@
-path,               name
-POLS0036/star.dta,  Krueger 1999
+path,                 name
+POLS0036/gerver.dta,  Gerber, Green, and Larimer (2008)
+POLS0036/benin.csv,   Wantchekon (2003)
+POLS0036/star.dta,    Krueger (1999)
