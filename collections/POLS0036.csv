@@ -1,4 +1,5 @@
-path,                 name
-POLS0036/gerber.dta,  "Gerber, Green, and Larimer (2008)"
-POLS0036/benin.csv,   Wantchekon (2003)
-POLS0036/star.dta,    Krueger (1999)
+path,                       name
+POLS0036/gerber.dta,        "Gerber, Green, and Larimer (2008)"
+POLS0036/benin.csv,         Wantchekon (2003)
+POLS0036/star.dta,          Krueger (1999)
+POLS0036/experiment.dta,    Simulated Experimental Dataset

@@ -2,3 +2,4 @@
 .Rhistory
 _site
 .DS_Store
+.RData
