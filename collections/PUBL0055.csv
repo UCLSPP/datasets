@@ -1,0 +1,33 @@
+path,                                   name
+data/bes.dta,                           British Election Study Dataset
+data/non_western_foreingners.RData,     Non Western Foreigners Dataset
+data/caschool.dta,                      California Schools Dataset
+data/CASchoolAdmin.csv,                 California Schools Admin Dataset
+data/CABenefits.csv,                    California Schools Benefits Dataset
+data/CAStudents.csv,                    California Schools Student Dataset
+data/corruption.csv,                    Transparency International Corruption Perceptions Index
+data/CPDS_1960-2013_stata.dta,          Comparative Political Dataset
+data/cps2013.csv,                       U.S. Current Population Survey (CPS) from 2013
+data/diabetic_data.csv,                 Patient Data from 130 U.S. hospitals
+data/guns.csv,                          Guns Data
+data/hsb2.xlsx,                         High School and Beyond survey
+data/MA_Schools.csv,                    Massachusetts Schools Dataset
+data/polity.csv,                        Polity IV Dataset
+data/QoG2012.csv,                       Institute for Quality of Governance
+data/qog_std_cs_jan15.csv,              Institute for Quality of Governance - Full Dataset - 2015 (.csv format)
+data/qog_std_cs_jan15.dta,              Institute for Quality of Governance - Full Dataset - 2015 (.dta format)
+data/qog_std_cs_jan18.csv,              Institute for Quality of Governance - Full Dataset - 2018 (.csv format)
+data/qog_std_cs_jan18.dta,              Institute for Quality of Governance - Full Dataset - 2018 (.dta format)
+data/shark_attacks.csv,                 Shark Attacks Data
+data/communities.csv,                   1990 US Census data
+data/econ_data.csv,                     Midterm sample data
+data/non_western_immigrants.csv,        Perception of immigrants from non-western countries
+data/resourcecurse.csv,                 Resource Curse Dataset
+data/german_election_results.csv,       German Bundestag elections in 2017
+data/chechen.csv,                       Chechen Dataset
+data/who_voted_nazi_in_1932.csv,        Election of Adolf Hitler 1932
+data/afb_class.csv,                     Afrobarometer
+data/SwissData2011.dta,                 Swiss Data 2011
+data/benin.csv,                         Benin Survey Data
+data/ess.csv,European Social Survey
+data/vdem.csv,Varieties of Democracy

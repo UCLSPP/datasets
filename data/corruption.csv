@@ -1,0 +1,171 @@
+country,country.code,country.abbr,ti.cpi,gdp,region
+Albania,8,ALB,2.5,4830,Europe
+Algeria,12,DZA,2.6,5760,Africa
+Angola,24,AGO,1.7,2130,Africa
+Azerbaijan,31,AZE,2,3210,Asia
+Argentina,32,ARG,2.8,10880,Americas
+Australia,36,AUS,8.6,28260,Asia
+Austria,40,AUT,7.8,29220,Europe
+Bahrain,48,BHR,6.1,17170,Asia
+Bangladesh,50,BGD,1.2,1700,Asia
+Armenia,51,ARM,3,3120,Asia
+Barbados,52,BRB,7.3,15290,Americas
+Belgium,56,BEL,7.1,27570,Europe
+Bhutan,64,BTN,6,1969,Asia
+Bolivia,68,BOL,2.2,2460,Americas
+Bosnia and Herzegovina,70,BIH,3.3,5970,Europe
+Botswana,72,BWA,6.4,8170,Africa
+Brazil,76,BRA,4,7770,Americas
+Belize,84,BLZ,4.5,6080,Americas
+Solomon Islands,90,SLB,2.8,1590,Asia
+Bulgaria,100,BGR,4,7130,Europe
+Myanmar,104,MMR,1.6,1027,Europe
+Burundi,108,BDI,2.3,630,Africa
+Belarus,112,BLR,4.8,5520,Europe
+Cambodia,116,KHM,2.3,2060,Asia
+Cameroon,120,CMR,2.2,2000,Africa
+Canada,124,CAN,9,29480,Americas
+Cape Verde,132,CPV,4.9,5000,Africa
+Central African Republic,140,CAF,2.4,1170,Africa
+Sri Lanka,144,LKA,3.7,3570,Asia
+Chad,148,TCD,1.7,1020,Africa
+Chile,152,CHL,7.5,9820,Americas
+China,156,CHN,3.5,4580,Asia
+Colombia,170,COL,3.6,6370,Americas
+Comoros,174,COM,2.6,1690,Africa
+Congo,178,COG,2.2,980,Africa
+"Congo, Democratic Republic",180,COD,2,650,Africa
+Costa Rica,188,CRI,4.5,8840,Americas
+Croatia,191,HRV,3.8,10240,Europe
+Cuba,192,CUB,4.6,5259,Americas
+Cyprus,196,CYP,6.1,18360,Asia
+Czech Republic,203,CZE,3.7,15780,Europe
+Benin,204,BEN,3.2,1070,Africa
+Denmark,208,DNK,9.5,30940,Europe
+Dominica,212,DMA,4.5,5640,Americas
+Dominican Republic,214,DOM,3.5,6640,Americas
+Ecuador,218,ECU,2.2,3580,Americas
+El Salvador,222,SLV,3.4,4890,Americas
+Equatorial Guinea,226,GNQ,1.9,30130,Africa
+Ethiopia,231,ETH,3.5,780,Africa
+Eritrea,232,ERI,2.6,890,Africa
+Estonia,233,EST,5.6,12260,Europe
+Fiji,242,FJI,4,5440,Asia
+Finland,246,FIN,9.7,26190,Europe
+France,250,FRA,6.3,26920,Europe
+Djibouti,262,DJI,2.9,1990,Africa
+Gabon,266,GAB,3.3,6590,Africa
+Georgia,268,GEO,2.4,2260,Asia
+Gambia,270,GMB,2.5,1690,Africa
+Germany,276,DEU,7.3,27100,Europe
+Ghana,288,GHA,3.9,2130,Africa
+Greece,300,GRC,4.2,18720,Europe
+Grenada,308,GRD,3.5,7280,Americas
+Guatemala,320,GTM,2.5,4080,Americas
+Guinea,324,GIN,1.9,2100,Africa
+Guyana,328,GUY,2.5,4260,Americas
+Haiti,332,HTI,2.2,1610,Americas
+Honduras,340,HND,2.7,2600,Americas
+Hungary,348,HUN,4.9,13400,Europe
+Iceland,352,ISL,9.4,29750,Europe
+India,356,IND,2.7,2670,Asia
+Indonesia,360,IDN,1.9,3230,Asia
+Iran,364,IRN,3,6690,Asia
+Ireland,372,IRL,6.9,36360,Europe
+Israel,376,ISR,7.3,19530,Asia
+Italy,380,ITA,5.2,26430,Europe
+Cote d'Ivoire,384,CIV,2.7,1520,Africa
+Jamaica,388,JAM,4,3980,Americas
+Japan,392,JPN,7.1,26940,Asia
+Kazakhstan,398,KAZ,2.3,5870,Asia
+Jordan,400,JOR,4.5,4220,Asia
+Kenya,404,KEN,1.9,1020,Africa
+"Korea, South",410,KOR,4.5,16950,Asia
+Kuwait,414,KWT,5.3,16240,Asia
+Kyrgyzstan,417,KGZ,2.1,1620,Asia
+Laos,418,LAO,3.3,1720,Asia
+Lebanon,422,LBN,3,4360,Asia
+Lesotho,426,LSO,3.4,2420,Africa
+Latvia,428,LVA,3.7,9210,Europe
+Libya,434,LBY,2.1,7570,Africa
+Lithuania,440,LTU,4.8,10320,Europe
+Luxembourg,442,LUX,9,61190,Europe
+Madagascar,450,MDG,1.7,740,Africa
+Malawi,454,MWI,2.9,580,Africa
+Malaysia,458,MYS,4.9,9120,Asia
+Maldives,462,MDV,3.3,4798,Asia
+Mali,466,MLI,3,930,Africa
+Malta,470,MLT,6.8,17640,Europe
+Mauritania,478,MRT,3.1,2220,Africa
+Mauritius,480,MUS,4.5,10810,Africa
+Mexico,484,MEX,3.6,8970,Americas
+Mongolia,496,MNG,3,1710,Asia
+Moldova,498,MDA,2.1,1470,Europe
+Morocco,504,MAR,3.7,3810,Africa
+Mozambique,508,MOZ,2.7,1050,Africa
+Oman,512,OMN,6.3,13340,Asia
+Namibia,516,NAM,5.7,6210,Africa
+Nepal,524,NPL,2.8,1370,Asia
+Netherlands,528,NLD,9,29100,Europe
+Vanuatu,548,VUT,3.1,2890,Asia
+New Zealand,554,NZL,9.5,21740,Asia
+Nicaragua,558,NIC,2.5,2470,Americas
+Niger,562,NER,2.2,800,Africa
+Nigeria,566,NGA,1.6,860,Africa
+Norway,578,NOR,8.5,36600,Europe
+Pakistan,586,PAK,2.6,1940,Asia
+Panama,591,PAN,3,6170,Americas
+Papua New Guinea,598,PNG,2.1,2270,Asia
+Paraguay,600,PRY,1.7,4610,Americas
+Peru,604,PER,4,5010,Americas
+Philippines,608,PHL,2.6,4170,Asia
+Poland,616,POL,4,10560,Europe
+Portugal,620,PRT,6.3,18280,Europe
+Guinea-Bissau,624,GNB,2.2,710,Africa
+Qatar,634,QAT,5.6,19844,Asia
+Romania,642,ROU,2.6,6560,Europe
+Russian Federation,643,RUS,2.7,8230,Europe
+Rwanda,646,RWA,3.1,1270,Africa
+St Lucia,662,LCA,6.8,5300,Americas
+St Vincent and the Grenadines,670,VCT,6.1,5460,Americas
+Sao Tome and Principe,678,STP,2.7,1317,Africa
+Saudi Arabia,682,SAU,4.5,12650,Asia
+Senegal,686,SEN,3.1,1580,Africa
+Seychelles,690,SYC,4.4,18232,Africa
+Sierra Leone,694,SLE,2.2,520,Africa
+Singapore,702,SGP,9.3,24040,Asia
+Slovakia,703,SVK,3.7,12840,Europe
+Vietnam,704,VNM,2.4,2300,Asia
+Slovenia,705,SVN,6,18540,Europe
+South Africa,710,ZAF,4.8,10070,Africa
+Zimbabwe,716,ZWE,2.7,2400,Africa
+Spain,724,ESP,7.1,21460,Europe
+Sudan,736,SDN,2.3,1820,Africa
+Suriname,740,SUR,4.3,6590,Americas
+Swaziland,748,SWZ,2.7,4550,Africa
+Sweden,752,SWE,9.3,26050,Europe
+Switzerland,756,CHE,8.5,30010,Europe
+Syria,760,SYR,3.4,3620,Asia
+Tajikistan,762,TJK,1.8,980,Asia
+Thailand,764,THA,3.2,7010,Asia
+Togo,768,TGO,2.4,1480,Africa
+Tonga,776,TON,1.7,6850,Asia
+Trinidad and Tobago,780,TTO,4.9,9430,Americas
+United Arab Emirates,784,ARE,5.2,22420,Asia
+Tunisia,788,TUN,4.8,6760,Africa
+Turkey,792,TUR,3.2,6390,Europe
+Turkmenistan,795,TKM,2,4300,Asia
+Uganda,800,UGA,2.1,1390,Africa
+Ukraine,804,UKR,2.4,4870,Europe
+Macedonia,807,MKD,2.3,6470,Europe
+Egypt,818,EGY,3.4,3810,Africa
+United Kingdom,826,GBR,8.7,26150,Europe
+Tanzania,834,TZA,2.7,580,Africa
+United States,840,USA,7.7,35750,Americas
+Burkina Faso,854,BFA,3,1100,Africa
+Uruguay,858,URY,5.1,7830,Americas
+Uzbekistan,860,UZB,2.9,1670,Asia
+Venezuela,862,VEN,2.5,5380,Americas
+Samoa,882,WSM,4.5,5600,Asia
+Yemen,887,YEM,2.6,870,Asia
+Zambia,894,ZMB,2.6,840,Africa

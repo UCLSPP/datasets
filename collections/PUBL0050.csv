@@ -1,0 +1,17 @@
+path,                             name
+data/gerber_green_larimer.Rdata,gerber green larimer 2008
+data/women.csv,dulfo 2004
+data/star_sw.dta,star experiment
+data/kalla_broockman.RData,kalla brookman
+data/gerber_green.Rdata,gerber green 2008 raw
+data/eggers_mps.Rdata,mps for sale
+data/nsw_exper.dta,Dehejia and Wahba  experimental
+data/NSW.dw.obs.dta,Dehejia and Wahba observational
+data/dinas_golden_dawn.Rdata,Golden Dawn
+data/m_wage.dta,Card and Krueger
+data/hope_emu.csv,Hope EMU
+data/hope_emu_austria.csv,Hope EMU Austria
+data/sesame_experiment.dta,Sesame Street Experiment
+data/ajr.csv,Acemoglu Johnson and Robinson 2001
+data/dinas_golden_dawn_iv.Rdata,Golden Dawn IV
+data/islamic_women.csv,Meyersson 2014
